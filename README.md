@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+Fighting the Currency Theft Problem in Nigeria Churches through Computer Vision
 
 
 ## Contribution Guidelines
